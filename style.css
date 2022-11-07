@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  
+}
+.anh{
+    display: flex;
+    justify-content: space-between;
+}
+.anh1 {
+    width: 20%;
+}
+.anh2{
+    width: 20%;
+}
+
+#pinkboard{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -300px;
+}
